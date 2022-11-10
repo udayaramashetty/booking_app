@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udayaramashetty/booking_app.git/static/css/main.6cf9145d.css",
+    "main.js": "/udayaramashetty/booking_app.git/static/js/main.efce9548.js",
+    "static/js/787.c1112931.chunk.js": "/udayaramashetty/booking_app.git/static/js/787.c1112931.chunk.js",
+    "index.html": "/udayaramashetty/booking_app.git/index.html",
+    "main.6cf9145d.css.map": "/udayaramashetty/booking_app.git/static/css/main.6cf9145d.css.map",
+    "main.efce9548.js.map": "/udayaramashetty/booking_app.git/static/js/main.efce9548.js.map",
+    "787.c1112931.chunk.js.map": "/udayaramashetty/booking_app.git/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf9145d.css",
+    "static/js/main.efce9548.js"
+  ]
+}
